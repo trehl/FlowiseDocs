@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Demos](demos.md)
 * [Get Started](getting-started/README.md)
 * [Contribution Guide](CONTRIBUTING.md)
 * [Using Flowise](using-flowise/README.md)
